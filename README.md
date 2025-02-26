@@ -10,6 +10,8 @@ Our program runs Monte Carlo simulations to compute 3-dimensional lattice-polyme
 - Interacting Self-Avoiding Walks (nearest non-paired neighbors attraction)
 - Biased Self-Avoiding Walks (constant force constraint)
 
+Please refer to the `report/` folder for a brief review of the project's scientific background and our results.
+
 ### Example
 An example of usage is provided in the `results.py` file. A full how-to tutorial will soon be published as a notebook in the present repository. 
 
@@ -18,8 +20,8 @@ An example of usage is provided in the `results.py` file. A full how-to tutorial
 ### Cloning 
 In your favourite terminal, run:
 ```
-git clone https://github.com/crecric/Projet_polymeres.git
-cd Projet_polymeres
+git clone https://github.com/NikitaY69/PolyPy.git
+cd PolyPy
 ```
 
 ### Requirements
