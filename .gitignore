@@ -8,3 +8,5 @@ test*
 *.jpg
 *.pkl
 *.DS_Store
+*.jpg
+*.pkl
